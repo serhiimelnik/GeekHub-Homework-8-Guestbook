@@ -1,0 +1,21 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.navbar-static-top {
+    margin-bottom: 19px;
+}
+starter-template {
+    padding: 40px 15px;
+    text-align: right;
+}
+
+.jumbotron {
+    margin-top: 10px;
+    text-align: center;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.wall{
+    margin : 10px;
+}

@@ -1,0 +1,3 @@
+melnik_guestbook:
+    pattern:  /index
+    defaults: { _controller: MelnikGuestbookBundle:Default:index }

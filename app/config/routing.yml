@@ -1,0 +1,4 @@
+melnik_guestbook:
+    resource: "@MelnikGuestbookBundle/Resources/config/routing.yml"
+    prefix:   /
+
